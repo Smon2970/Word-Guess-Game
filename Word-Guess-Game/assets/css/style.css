@@ -11,11 +11,6 @@ body{
     margin: 0 auto;
     color: white;
 }
-h2{
-    font-family: 'Berkshire Swash', cursive;
-    font-size: 35px;
-    color: white;
-}
 
 .container{
     text-align: center;
@@ -24,6 +19,9 @@ h2{
     float:left;
     font-size: 20px;
     font-family: 'Berkshire Swash', cursive;
+    color: white;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 20px;
     color: white;
 }
 .current{
@@ -42,13 +40,7 @@ h3,h4{
     color: white;
 }
 
-h6{
-    float:center;
-    font-size: 15px;
-    color: white;
-}
-
-#lives{
+#remainingGuesses{
     border: solid yellow;
     float: left;
     font-size: 20px;
@@ -61,7 +53,7 @@ h6{
 
 }
 
-#Guesses{
+#LettersGuessed{
     border: solid yellow;
     float: right;
     font-size: 20px;
