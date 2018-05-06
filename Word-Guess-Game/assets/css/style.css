@@ -1,0 +1,91 @@
+body{
+    background-size: cover;
+    background-size: cover;
+    border: 3px solid purple;
+    font-size: 35px;
+    font-family: 'Berkshire Swash', cursive;
+    font-style: text-shadow: 2px 4px 10px red;
+    text-align: center;
+    width: 750px;
+    height: 90%;
+    margin: 0 auto;
+    color: white;
+}
+h2{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 35px;
+    color: white;
+}
+
+.container{
+    text-align: center;
+}
+h2{
+    float:left;
+    font-size: 20px;
+    font-family: 'Berkshire Swash', cursive;
+    color: white;
+}
+.current{
+    float: center;
+    color: white;
+
+}
+h3,h4{
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Berkshire Swash', cursive;
+    text-align: left;
+    height: 75px;
+    width: 25%;
+    margin: 0 auto;
+    color: white;
+}
+
+h6{
+    float:center;
+    font-size: 15px;
+    color: white;
+}
+
+#lives{
+    border: solid yellow;
+    float: left;
+    font-size: 20px;
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+    height: 75px;
+    width: 25%;
+    margin: 0 auto;
+    color: white;
+
+}
+
+#Guesses{
+    border: solid yellow;
+    float: right;
+    font-size: 20px;
+    font-family: 'Berkshire Swash', cursive;
+    text-align: center;
+    height: 75px;
+    width: 25%;
+    margin: 0 auto;
+    color: white;
+}
+
+body{
+
+    background-color: indianred;
+}
+
+img{
+    border: solid yellow;
+    height: 80px;
+    width: 25%;
+    margin: 0 auto;
+}
+
+input{
+    width: 300px;
+
+}
